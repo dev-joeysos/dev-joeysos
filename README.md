@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hi Hello 반갑습니다 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeysos&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-joeysos&show_icons=true&theme=vue)
 
 <a href="https://velog.io/@klee_623" target="_blank">
     <img src="https://img.shields.io/badge/klee_623-20C997?style=flat-square&logo-appveyor&logo=Velog&logoColor=ffffff"/>
