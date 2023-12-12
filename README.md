@@ -1,5 +1,3 @@
-### Hi Hello 반갑습니다 👋
-
 <!--
 **dev-joeysos/dev-joeysos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi Hello 반갑습니다 👋
 
+<a href="https://velog.io/@klee_623" target="_blank"><img src="https://img.shields.io/badge/klee_623-20C997?style=flat-square&logo-appveyor&logo=Velog&logoColor=ffffff"/></a> 
+<a href="https://www.instagram.com/dlrjsgml___/" target="_blank"><img src="https://img.shields.io/badge/dlrjsgml___-E4405F?style=flat-square&logo-appveyor&logo=Instagram&logoColor=ffffff"/></a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeysos&show_icons=true&theme=vue)
 
-
-
-<a href="https://velog.io/@klee_623" target="_blank"><img src="https://img.shields.io/badge/klee_623-20C997?style=flat-square&logo-appveyor&logo=Velog&logoColor=ffffff"/></a> <a href="https://www.instagram.com/dlrjsgml___/" target="_blank"><img src="https://img.shields.io/badge/dlrjsgml___-E4405F?style=flat-square&logo-appveyor&logo=Instagram&logoColor=ffffff"/></a>
+### 
