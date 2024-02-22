@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 <a href="https://velog.io/@klee_623" target="_blank">
     <img src="https://img.shields.io/badge/klee_623-20C997?style=flat-square&logo-appveyor&logo=Velog&logoColor=ffffff"/>
 </a> 
-<a href="https://www.instagram.com/dlrjsgml___/" target="_blank">
-    <img src="https://img.shields.io/badge/dlrjsgml___-E4405F?style=flat-square&logo-appveyor&logo=Instagram&logoColor=ffffff"/>
-</a>
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
