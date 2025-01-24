@@ -30,6 +30,6 @@
     <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
 
-### BLOG 🖼️
+## BLOG 🖼️
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=joey_log)](https://atlantiss.tistory.com/)
 
