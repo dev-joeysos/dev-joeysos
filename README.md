@@ -5,10 +5,10 @@
 중앙대학교 소프트웨어학부를 졸업하고, **데이터·AI**와 **클라우드**를 공부하며 직접 만들어 보는 개발자 이건희입니다.
 
 <p>
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-joeysos&theme=nord_bright" />
+  <img height="160" src="./profile-summary-card-output/nord_bright/0-profile-details.svg" />
 </p>
 <p>
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-joeysos&theme=nord_bright" />
+  <img height="160" src="./profile-summary-card-output/nord_bright/2-most-commit-language.svg" />
   <img height="160" src="https://streak-stats.demolab.com?user=dev-joeysos&theme=nord&hide_border=true" />
 </p>
 
