@@ -9,7 +9,7 @@
 </p>
 <p>
   <img height="160" src="./profile-summary-card-output/nord_bright/2-most-commit-language.svg" />
-  <img height="160" src="https://streak-stats.demolab.com?user=dev-joeysos&theme=nord&hide_border=true" />
+  <img height="160" src="./profile-summary-card-output/nord_bright/3-stats.svg" />
 </p>
 
 ## PROJECTS 🚀
@@ -17,7 +17,7 @@
 | 프로젝트 | 설명 |
 |---|---|
 | [🍽️ 식음업장 메뉴 수요 예측](https://github.com/dev-joeysos/menu-sales-prediction) | LG Aimers 7기 해커톤 · LightGBM 시계열 예측 · 281위 / 1,779명 |
-| [💪 vveight fit](https://github.com/dev-joeysos/vveight_fit) | 2024 캡스톤디자인 · Flutter 운동 기록 앱 |
+| [💪 베이트핏 (vveight fit)](https://github.com/dev-joeysos/vveight_fit) | 2024 캡스톤디자인 · 휴대폰 카메라만으로 VBT(속도 기반 훈련) 운동 루틴을 만들어 주는 Flutter 앱 |
 
 ## STACKS 📚
 
