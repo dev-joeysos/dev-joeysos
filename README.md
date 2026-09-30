@@ -17,6 +17,7 @@
 | 프로젝트 | 설명 |
 |---|---|
 | [🍽️ 식음업장 메뉴 수요 예측](https://github.com/dev-joeysos/menu-sales-prediction) | LG Aimers 7기 해커톤 · LightGBM 시계열 예측 · 281위 / 1,779명 |
+| [🎤 ME:MIC](https://github.com/2023-CapstoneDesign-MEMIC/MEMIC-front-react) | 2023 캡스톤디자인 · 음향 추출·분석으로 성대모사를 도와주는 앱 · React 프론트엔드 담당 ([메인 저장소](https://github.com/2023-CapstoneDesign-MEMIC/MEMIC)) |
 | [💪 베이트핏 (vveight fit)](https://github.com/dev-joeysos/vveight_fit) | 2024 캡스톤디자인 · 휴대폰 카메라만으로 VBT(속도 기반 훈련) 운동 루틴을 만들어 주는 Flutter 앱 |
 
 ## STACKS 📚
